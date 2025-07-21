@@ -1,7 +1,6 @@
 <?php
 require_once '../config/koneksi.php';
 
-// Ambil setting aplikasi dari DB
 $setting = [];
 $res = $conn->query("SELECT name, value FROM settings");
 while ($s = $res->fetch_assoc()) {

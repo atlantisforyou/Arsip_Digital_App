@@ -1,5 +1,5 @@
-LINK VIDEO 
-https://youtu.be/-KPYYDyNwr0 
+📺 **Link Video Demo Aplikasi:** https://youtu.be/-KPYYDyNwr0  
+🌐 **Aplikasi Online:** https://digitalelina.my.id/login.php 
 
 # Arsip Digital - Dokumentasi Aplikasi
 
